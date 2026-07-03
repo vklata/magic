@@ -1957,7 +1957,7 @@ async def metadata():
         "team_members": ["Vishnu"],
         "model": "via OpenRouter and groq",
         "approach": "rules-first deterministic planner + category-voice injection + grounded fallbacks + intent state machine",
-        "contact_email": "chaitanyakalra7@gmail.com",
+        "contact_email": "vishnukaushik173@gmail.com",
         "version": "3.1.1",
         "submitted_at": datetime.now(timezone.utc).isoformat()
     }
