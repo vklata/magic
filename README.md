@@ -9,7 +9,7 @@ pinned: false
 
 # Vera — magicpin Merchant AI Assistant
 
-> **Challenge submission** · Vishnu · BML Munjal University 2026
+> **Challenge submission** · Vishnu · GGSIPU 2026
 > **Result:** Top 30 / 70 points · magicpin AI Challenge
 
 ---
